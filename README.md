@@ -25,4 +25,4 @@ It consists of the following:
   - Designator: MOLEX_ROW  
   - Footprint: MOLEX_5267_4P  
 
-<img width="600" alt="BOM Screenshot" src="https://github.com/user-attachments/assets/6f5f8036-f7f8-4b9c-a95a-a5ea38c52570" />
+
